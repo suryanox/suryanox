@@ -14,7 +14,7 @@
 
 ## What I'm Doing
 
-💼 Building Kotlin/JVM & AI apps for work, 🎮 tinkering with Rust & Python for fun, 🤖 integrating AI into workflows, ⚡ prototyping fast, and 📚 sharing knowledge through open-source projects.
+ Building Kotlin/JVM & AI apps for work 💼, tinkering with Rust & Python for fun 🎮 , integrating AI into workflows, prototyping fast, and sharing knowledge through open-source projects.
 
 
 
