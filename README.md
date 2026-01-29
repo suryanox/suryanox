@@ -8,3 +8,16 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+## Current Projects
+
+
+
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Sooraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorajhere/)
+
