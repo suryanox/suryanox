@@ -20,6 +20,7 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
 
+🖼️ **[Loom](https://github.com/suryanox/loom)** — A minimalist, React-based canvas for weaving complex system design diagrams.  
 🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** — A realistic blackboard drawing app with chalk, duster tools, and memory· 👉 [Demo](https://suryanox.github.io/blackboard/)
 
 
