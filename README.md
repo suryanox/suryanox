@@ -19,6 +19,7 @@
 
 ## Current Projects
 
+🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** A realistic blackboard drawing app with chalk and duster tools.
 
 
 ## Connect
