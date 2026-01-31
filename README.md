@@ -14,7 +14,7 @@
 
 ## What I'm Doing
 
-Building Kotlin/JVM & AI applications for work, tinkering with Rust, Python, and React for fun and side projects. I enjoy integrating AI into everyday workflows, prototyping fast, and sharing what I learn through open-source projects.
+Building distributed backends with Kotlin and Scala, integrating AI into workflows, and tinkering with Rust, Python, and React for fun and side projects. I enjoy rapid prototyping and sharing what I learn through open-source projects.
 
 
 ## Current Projects
