@@ -1,6 +1,6 @@
 # Hi, I'm Sooraj 👋
 
-📍 **Singapore** | 🤖 **Backend & AI** | 🚀 **Exploring Rust & Python** | 💼 **Building Kotlin/JVM Apps Professionally**
+📍 **Singapore** | 🤖 **Backend & AI** | 🚀 **Exploring Rust & Python** | 💼 **Building Kotlin & Scala Apps Professionally**
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -14,7 +14,7 @@
 
 ## What I'm Doing
 
-Building distributed backends with Kotlin and Scala, integrating AI into workflows, and tinkering with Rust, Python, and React for fun and side projects. I enjoy rapid prototyping and sharing what I learn through open-source projects.
+Building distributed backends with Kotlin and Scala Professionally, integrating AI into travel tech workflows, and tinkering with Rust, Python, and React for fun and side projects. I enjoy rapid prototyping and sharing what I learn through open-source projects.
 
 
 ## Current Projects
