@@ -20,8 +20,8 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
 
-🧠 **[Neuron](https://github.com/suryanox/neuron)** — A Rust TUI interactive mind map app. `brew install suryanox/homebrew-tap/neuron`  
-💀 **[RIP](https://github.com/suryanox/rip)** — A Rust TUI to list processes bound to ports and kill them interactively. `brew install suryanox/homebrew-tap/rip`   
+🧠 **[Neuron](https://github.com/suryanox/neuron)** — A Rust TUI interactive mind map app. Try 👉 `brew install suryanox/homebrew-tap/neuron`  
+💀 **[RIP](https://github.com/suryanox/rip)** — A Rust TUI to list processes bound to ports and kill them interactively. Try 👉 `brew install suryanox/homebrew-tap/rip`   
 💭 **[Think](https://github.com/suryanox/think)** — Think out loud, draw it out. 👉 [Demo](https://suryanox.github.io/think/)  
 🖼️ **[Loom](https://github.com/suryanox/loom)** — A minimalist, React-based canvas for weaving complex system design diagrams. 👉 [Demo](https://suryanox.github.io/loom/)  
 🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** — A realistic blackboard drawing app with chalk, duster tools, and memory· 👉 [Demo](https://suryanox.github.io/blackboard/)
