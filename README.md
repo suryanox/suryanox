@@ -28,9 +28,3 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ### My Brew
 
 🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — A Homebrew tap for easily installing and managing my personal projects.
-
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Sooraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorajhere/)
-
