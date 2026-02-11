@@ -19,7 +19,8 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
-✍️ **[Lexa](https://github.com/suryanox/lexa)** — A local terminal grammar assistant built with Python and Textual. Try 👉 `brew install suryanox/homebrew-tap/lexa`  
+
+✍️ **[Lexa](https://github.com/suryanox/lexa)** — A local terminal grammar assistant built with Python and Textual. Try 👉 `brew install suryanox/homebrew-tap/lexa`    
 🧠 **[Neuron](https://github.com/suryanox/neuron)** — A Rust TUI interactive mind map app. Try 👉 `brew install suryanox/homebrew-tap/neuron`  
 💀 **[RIP](https://github.com/suryanox/rip)** — A Rust TUI to interactively kill processes bound to ports. Try 👉 `brew install suryanox/homebrew-tap/rip`   
 💭 **[Think](https://github.com/suryanox/think)** — Think out loud, draw it out. 👉 [Demo](https://suryanox.github.io/think/)  
