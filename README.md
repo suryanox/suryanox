@@ -24,7 +24,7 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 💀 **[RIP](https://github.com/suryanox/rip)** — A Rust TUI to interactively kill processes bound to ports. Try 👉 `brew install suryanox/homebrew-tap/rip`   
 💭 **[Think](https://github.com/suryanox/think)** — Think out loud, draw it out. 👉 [Demo](https://suryanox.github.io/think/)  
 🖼️ **[Loom](https://github.com/suryanox/loom)** — A minimalist, React-based canvas for weaving complex system design diagrams. 👉 [Demo](https://suryanox.github.io/loom/)  
-🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** — A realistic blackboard drawing app with chalk, duster tools, and memory· 👉 [Demo](https://suryanox.github.io/blackboard/)
+🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** — A realistic blackboard drawing app with chalk, duster tools, and memory· 👉 [Demo](https://suryanox.github.io/blackboard/)  
 ✍️ **[Lexa](https://github.com/suryanox/lexa)** — A local terminal grammar assistant built with Python and Textual. Try 👉 `brew install suryanox/homebrew-tap/lexa`    
 
 
