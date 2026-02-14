@@ -20,13 +20,33 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
 
-🛢 **[Crux](https://github.com/suryanox/crux)** — Terminal-first DB client: connect, query, and explore your data, fast.   
-🧠 **[Neuron](https://github.com/suryanox/neuron)** — A Rust TUI interactive mind map app. Try 👉 `brew install suryanox/homebrew-tap/neuron`  
-💀 **[RIP](https://github.com/suryanox/rip)** — A Rust TUI to interactively kill processes bound to ports. Try 👉 `brew install suryanox/homebrew-tap/rip`   
-💭 **[Think](https://github.com/suryanox/think)** — Think out loud, draw it out. 👉 [Demo](https://suryanox.github.io/think/)  
-🖼️ **[Loom](https://github.com/suryanox/loom)** — A minimalist, React-based canvas for weaving complex system design diagrams. 👉 [Demo](https://suryanox.github.io/loom/)  
-🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)** — A realistic blackboard drawing app with chalk, duster tools, and memory· 👉 [Demo](https://suryanox.github.io/blackboard/)  
-✍️ **[Lexa](https://github.com/suryanox/lexa)** — A local terminal grammar assistant built with Python and Textual. Try 👉 `brew install suryanox/homebrew-tap/lexa`    
+🛢 **[Crux](https://github.com/suryanox/crux)**  Terminal-first DB client: connect, query, and explore your data, fast.  
+
+```bash
+brew install suryanox/homebrew-tap/crux
+```
+
+🧠 **[Neuron](https://github.com/suryanox/neuron)**  A Rust TUI interactive mind map app.  
+```bash
+brew install suryanox/homebrew-tap/neuron
+```
+
+💀 **[RIP](https://github.com/suryanox/rip)**  A Rust TUI to interactively kill processes bound to ports.  
+
+```bash
+brew install suryanox/homebrew-tap/rip
+```
+
+💭 **[Think](https://github.com/suryanox/think)**  Think out loud, draw it out.  [Demo](https://suryanox.github.io/think/)
+
+🖼️ **[Loom](https://github.com/suryanox/loom)**  A minimalist, React-based canvas for weaving complex system design diagrams.  [Demo](https://suryanox.github.io/loom/)
+
+🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)**  A realistic blackboard drawing app with chalk, duster tools, and memory.  [Demo](https://suryanox.github.io/blackboard/)
+
+✍️ **[Lexa](https://github.com/suryanox/lexa)**  A local terminal grammar assistant built with Python and Textual.  
+```bash
+brew install suryanox/homebrew-tap/lexa
+```
 
 
 ### My Brew
