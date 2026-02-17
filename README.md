@@ -51,6 +51,8 @@ brew install suryanox/homebrew-tap/lexa
 🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — Brew tap for shipping my CLI tools fast
 
 
+---
+
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/suryanox)
+<img src="https://gh-heat.anishroy.com/api/suryanox/svg?cellSize=15&cellGap=4&borderWidth=2&radius=6&colors=111111,2a2a2a,7c2d12,ea580c,f97316" />
