@@ -48,7 +48,9 @@ brew install suryanox/homebrew-tap/rip
 brew install suryanox/homebrew-tap/lexa
 ```
 
+🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — Brew tap for shipping my CLI tools fast
 
-### My Brew
 
-🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — A Homebrew tap for easily installing and managing my personal projects.
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/suryanox)
