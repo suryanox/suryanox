@@ -19,7 +19,7 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
 
-🛣️ **[Transit](https://github.com/suryanox/transit)** A lightweight Rust desktop proxy that forwards requests and logs the complete request and response lifecycle.  
+🛣️ **[Transit](https://github.com/suryanox/transit)** A lightweight Rust desktop proxy that forwards requests and logs the complete request and response lifecycle. [Demo](https://github.com/suryanox/transit?tab=readme-ov-file#demo)  
 
 🤖 **[Humanoid](https://github.com/suryanox/humanoid)** AI-powered human-like persona simulator for conversations.  
 
