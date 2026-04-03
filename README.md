@@ -59,3 +59,13 @@ brew install suryanox/homebrew-tap/lexa
 ```
 
 🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — Brew tap for shipping my CLI tools fast
+
+--- 
+## Rust Crates
+> I build rust crates and publish on crates.io 
+
+👉 **[Roughly](https://github.com/suryanox/roughly)** Probabilistic data structures for Rust, because sometimes close enough is good enough 
+[![Downloads](https://img.shields.io/crates/d/roughly)](https://crates.io/crates/roughly)   
+```bash
+cargo add roughly
+```
