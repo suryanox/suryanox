@@ -19,6 +19,8 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows.
 
+🩺 **[DrPrompt](https://github.com/suryanox/dr-prompt)** A doctor for your system prompts. Diagnose clarity, redundancy, contradictions, and coverage gaps in seconds.  
+
 🎥 **[Cast](https://github.com/suryanox/cast)**  Record, replay & rewind. time-travel debugger for AI agents.   
 
 ♻️ **[Scrap](https://github.com/suryanox/scrap)**  Query, filter, and clean your Mac Trash with ease.
