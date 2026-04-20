@@ -17,7 +17,9 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 
 ## Current Projects
-> I build projects mainly for my own usability and daily workflows.
+> I build projects mainly for my own usability and daily workflows
+
+📝 **[RelevanceDB](https://github.com/suryanox/relevance-db)** VectorDBs find similar. RelevanceDB finds relevant.
 
 🩺 **[DrPrompt](https://github.com/suryanox/dr-prompt)** A doctor for your system prompts. Diagnose clarity, redundancy, contradictions, and coverage gaps in seconds.  
 
@@ -61,13 +63,3 @@ brew install suryanox/homebrew-tap/lexa
 ```
 
 🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — Brew tap for shipping my CLI tools fast
-
---- 
-## Rust Crates
-> I build rust crates and publish on crates.io 
-
-👉 **[Roughly](https://github.com/suryanox/roughly)** Probabilistic data structures for Rust, because sometimes close enough is good enough 
-[![Downloads](https://img.shields.io/crates/d/roughly)](https://crates.io/crates/roughly)   
-```bash
-cargo add roughly
-```
