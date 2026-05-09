@@ -19,20 +19,12 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 ## Current Projects
 > I build projects mainly for my own usability and daily workflows
 
-📝 **[RelevanceDB](https://github.com/suryanox/relevance-db)** VectorDBs find similar. RelevanceDB finds relevant.
-
-🩺 **[DrPrompt](https://github.com/suryanox/dr-prompt)** A doctor for your system prompts. Diagnose clarity, redundancy, contradictions, and coverage gaps in seconds.  
-
-🎥 **[Cast](https://github.com/suryanox/cast)**  Record, replay & rewind. time-travel debugger for AI agents.   
-
 ♻️ **[Scrap](https://github.com/suryanox/scrap)**  Query, filter, and clean your Mac Trash with ease.
 ```bash
 brew install suryanox/homebrew-tap/scrap
 ```
 
 🛣️ **[Transit](https://github.com/suryanox/transit)** A lightweight Rust desktop proxy that forwards requests and logs the complete request and response lifecycle. <a href="https://github.com/suryanox/transit?tab=readme-ov-file#demo">Demo</a>  
-
-🤖 **[Humanoid](https://github.com/suryanox/humanoid)** AI-powered human-like persona simulator for conversations.  
 
 🛢 **[Crux](https://github.com/suryanox/crux)**  Terminal-first DB client: connect, query, and explore your data, fast.  
 
@@ -56,10 +48,3 @@ brew install suryanox/homebrew-tap/rip
 🖼️ **[Loom](https://github.com/suryanox/loom)**  A minimalist, React-based canvas for weaving complex system design diagrams.  [Demo](https://suryanox.github.io/loom/)
 
 🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)**  A realistic blackboard drawing app with chalk, duster tools, and memory.  [Demo](https://suryanox.github.io/blackboard/)
-
-✍️ **[Lexa](https://github.com/suryanox/lexa)**  A local terminal grammar assistant built with Python and Textual.  
-```bash
-brew install suryanox/homebrew-tap/lexa
-```
-
-🍺 **[suryanox-brew](https://github.com/suryanox/homebrew-tap)** — Brew tap for shipping my CLI tools fast
