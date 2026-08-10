@@ -16,35 +16,23 @@
 Building distributed backends with Kotlin and Scala Professionally, integrating AI into travel tech workflows, and tinkering with Rust, Python, and React for fun and side projects. I enjoy rapid prototyping and sharing what I learn through open-source projects.
 
 
-## Current Projects
-> I build projects mainly for my own usability and daily workflows
+## Current Project
 
-♻️ **[Scrap](https://github.com/suryanox/scrap)**  Query, filter, and clean your Mac Trash with ease.
-```bash
-brew install suryanox/homebrew-tap/scrap
-```
+> 🛢️ **[Crumble](https://github.com/suryanox/crumble)** An LLVM-inspired database built from scratch in Rust, exploring query processing, intermediate representations, optimization, execution, storage, and database internals.
 
-🛣️ **[Transit](https://github.com/suryanox/transit)** A lightweight Rust desktop proxy that forwards requests and logs the complete request and response lifecycle. <a href="https://github.com/suryanox/transit?tab=readme-ov-file#demo">Demo</a>  
+> Building it for learning, with one rule: **zero vibecoding.**
 
-🛢 **[Crux](https://github.com/suryanox/crux)**  Terminal-first DB client: connect, query, and explore your data, fast.  
+---
 
-```bash
-brew install suryanox/homebrew-tap/crux
-```
+## Other Projects
 
-🧠 **[Neuron](https://github.com/suryanox/neuron)**  A Rust TUI interactive mind map app.  
-```bash
-brew install suryanox/homebrew-tap/neuron
-```
+> I build projects mainly for my own usability and daily workflows.
 
-💀 **[RIP](https://github.com/suryanox/rip)**  A Rust TUI to interactively kill processes bound to ports.  
-
-```bash
-brew install suryanox/homebrew-tap/rip
-```
-
-💭 **[Think](https://github.com/suryanox/think)**  Think out loud, draw it out.  [Demo](https://suryanox.github.io/think/)
-
-🖼️ **[Loom](https://github.com/suryanox/loom)**  A minimalist, React-based canvas for weaving complex system design diagrams.  [Demo](https://suryanox.github.io/loom/)
-
-🧑‍🏫 **[Blackboard](https://github.com/suryanox/blackboard)**  A realistic blackboard drawing app with chalk, duster tools, and memory.  [Demo](https://suryanox.github.io/blackboard/)
+[Scrap](https://github.com/suryanox/scrap) ·
+[Transit](https://github.com/suryanox/transit) ·
+[Crux](https://github.com/suryanox/crux) ·
+[Neuron](https://github.com/suryanox/neuron) ·
+[RIP](https://github.com/suryanox/rip) ·
+[Think](https://github.com/suryanox/think) ·
+[Loom](https://github.com/suryanox/loom) ·
+[Blackboard](https://github.com/suryanox/blackboard)
