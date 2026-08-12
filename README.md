@@ -33,4 +33,7 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 [RIP](https://github.com/suryanox/rip) ·
 [Think](https://github.com/suryanox/think) ·
 [Loom](https://github.com/suryanox/loom) ·
-[Blackboard](https://github.com/suryanox/blackboard)
+[Blackboard](https://github.com/suryanox/blackboard) ·
+[DR-Prompt](https://github.com/suryanox/dr-prompt) ·
+[Judgelens](https://github.com/suryanox/judgelens) ·
+[Cast](https://github.com/suryanox/cast)
