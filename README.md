@@ -16,9 +16,9 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 ## Current Project
 
-> 🛢️ **[Crumble](https://github.com/suryanox/crumble)** An LLVM-inspired database built from scratch in Rust, exploring query processing, intermediate representations, optimization, execution, storage, and database internals.
+> 🛢️ **[Crumble](https://github.com/suryanox/crumble)** An LLVM-inspired database built from scratch in Rust, exploring query processing, intermediate representations, optimization, execution, storage, and database internals. 
 
-> Building it for learning, with one rule: **zero vibecoding.**
+> :dependabot: **[Receiptly](https://github.com/suryanox/receiptly)** Receiptly is a Telegram bot that turns photos of receipts into structured, organized expense records.
 
 ---
 
@@ -30,10 +30,8 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 [Transit](https://github.com/suryanox/transit) ·
 [Crux](https://github.com/suryanox/crux) ·
 [Neuron](https://github.com/suryanox/neuron) ·
-[RIP](https://github.com/suryanox/rip) ·
 [Think](https://github.com/suryanox/think) ·
 [Loom](https://github.com/suryanox/loom) ·
 [Blackboard](https://github.com/suryanox/blackboard) ·
 [DR-Prompt](https://github.com/suryanox/dr-prompt) ·
-[Judgelens](https://github.com/suryanox/judgelens) ·
 [Cast](https://github.com/suryanox/cast)
