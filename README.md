@@ -28,10 +28,8 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 [Scrap](https://github.com/suryanox/scrap) ·
 [Transit](https://github.com/suryanox/transit) ·
-[Crux](https://github.com/suryanox/crux) ·
 [Neuron](https://github.com/suryanox/neuron) ·
 [Think](https://github.com/suryanox/think) ·
 [Loom](https://github.com/suryanox/loom) ·
 [Blackboard](https://github.com/suryanox/blackboard) ·
-[DR-Prompt](https://github.com/suryanox/dr-prompt) ·
 [Cast](https://github.com/suryanox/cast)
