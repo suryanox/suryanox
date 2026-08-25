@@ -1,9 +1,5 @@
 # Hi, I'm Sooraj 👋
 
-👷 **Staff Software Engineer**
-
-## What I'm Doing
-
 Building distributed backends with Kotlin and Scala Professionally, integrating AI into travel tech workflows, and tinkering with Rust, Python for fun and side projects.
 
 ## Current Project
