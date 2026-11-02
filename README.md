@@ -4,8 +4,6 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 ## Current Project
 
-> 🛢️ **[Crumble](https://github.com/suryanox/crumble)** An LLVM-inspired database built from scratch in Rust, exploring query processing, intermediate representations, optimization, execution, storage, and database internals. 
-
 > :dependabot: **[Receiptly](https://github.com/suryanox/receiptly)** Receiptly is a Telegram bot that turns photos of receipts into structured, organized expense records.
 
 > 🎤 **[ExcaVoice](https://github.com/suryanox/excavoice)** A browser extension that turns your voice and renders them directly on Excalidraw.
