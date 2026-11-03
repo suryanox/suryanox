@@ -2,7 +2,7 @@
 
 Building distributed backends with Kotlin and Scala Professionally, integrating AI into travel tech workflows, and tinkering with Rust, Python for fun and side projects.
 
-## Highlighted Project
+## Highlighted Projects
 
 > 🗞️ **[Paperless](https://github.com/suryanox/paperless)** Index your pdfs
 
