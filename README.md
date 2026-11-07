@@ -6,7 +6,7 @@ Building distributed backends with Kotlin and Scala Professionally, integrating 
 
 > 📚 **[Paperless](https://github.com/suryanox/paperless)** Index your pdfs
 
-> 🗣️ **[Verba](https://github.com/suryanox/verba)** Speak naturally. Get polished text with macOS native AI.
+> 🗣️ **[Verba](https://github.com/suryanox/verba)** Speak, write, and refine. Your words, made clearer with native AI.
 
 > 🎙️ **[ExcaVoice](https://github.com/suryanox/excavoice)** A browser extension that turns your voice and renders them directly on Excalidraw.
 
